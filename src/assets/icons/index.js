@@ -27,11 +27,11 @@ import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import cpp from './cpp.svg'
-import canva from './canva.svg'
+import cCva from './Canva.svg'
 import python from './python.svg'
 
 export {
-    canva,
+    Canva,
     python,
     cpp,
     css,
